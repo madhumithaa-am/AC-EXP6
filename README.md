@@ -145,6 +145,9 @@ ylabel("Amplitude");
 ## OUTPUT:
 
 <img width="757" height="725" alt="image" src="https://github.com/user-attachments/assets/a91719d2-dde1-4650-ba07-3773f09ae33b" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5973cc23-0942-4a6f-a2a0-cb7f1d4d5b0a" />
+
+
 
 
 ## RESULT: 
